@@ -1,0 +1,18 @@
+/* We decided on this color palette: https://colorhunt.co/palette/00a19dfff8e5ffb344e05d5d */
+
+body {
+    background-color: #00A19D;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    background-color: #FFF8E5;
+}
+
+p {
+    background-color: #FFB344;
+}
+
+h2 {
+    background-color: #E05D5D;
+}
